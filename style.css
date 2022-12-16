@@ -1,0 +1,35 @@
+.content {
+    min-height: calc(100vh - 130px);
+    width: 99vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer {
+    height: 50px;
+    background-color: lightgrey;
+    color: darkgrey;
+    text-align: center;
+}
+.footer {
+    line-height: 50px;
+}
+.navbar {
+    background-color: lightcyan !important;
+}
+hr {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+.swiper {
+    width: 600px;
+    height: 300px;
+}
+#current-time {
+    margin-left: (100vh - 50px);
+    font-weight: bolder;
+    color: #a28089;
+}
+#chartdiv {
+    width: 100%;
+    height: 500px;
+}
